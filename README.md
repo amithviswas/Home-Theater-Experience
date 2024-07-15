@@ -1,6 +1,6 @@
 # Home Theater Experience
 
-![Home Theater Setup](images/Screenshot%20of%20Home%20Theater.png)
+![Home Theater Setup](images/[Screenshot%20of%20Home%20Theater.png](https://github.com/amithviswas/Home-Theater-Experience/blob/main/Screenshot%20of%20Home%20Theater.png))
 
 ## Description
 Home Theater Experience is a project aimed at creating a cinematic audio and video experience at home using Raspberry Pi, HDMI components, and smart devices.
